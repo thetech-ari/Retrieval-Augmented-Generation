@@ -1,0 +1,1386 @@
+RESEARCH Open Access
+A genetic assessment of the English
+bulldog
+Niels C. Pedersen1*, Ashley S. Pooch2and Hongwei Liu1
+Abstract
+Background: This study examines genetic diversity among 102 registered English Bulldogs used for breeding based
+on maternal and paternal haplotypes, allele frequencies in 33 highly polymorphic short tandem repeat (STR) loci on 25
+chromosomes, STR-linked dog leukocyte antigen (DLA) class I and II haplotypes, and the number and size of
+genome-wide runs of homozygosity (ROH) determined from high density SNP arrays. The objective was to assess
+whether the breed retains enough genetic diversity to corre ct the genotypic and phenotypic abnormalities associated
+with poor health, to allow for the elimination of deleterious recessive mutations, or to make further phenotypic changes
+in body structure or coat. An additional 37 English bulldogs presented to the UC Davis Veterinary Clinical Services for
+health problems were also genetically compared with t he 102 registered dogs based on the perception that
+sickly English bulldogs are products of commercial breeders or puppy-mills and genetically different and inferior.
+Results: Four paternal haplotypes, with one occurring in 93 % of dogs, were identified using six Y-short tandem
+repeat (STR) markers. Three major and two minor matrilin es were identified by mitochondrial D-loop sequencing.
+Heterozygosity was determined from allele frequencies a t genomic loci; the average number of alleles per locus
+was 6.45, with only 2.7 accounting for a majority of the div ersity. However, observed and expected heterozygosity
+values were nearly identical, indicating that the population as a whole was in Hardy-Weinberg equilibrium (HWE).
+However, internal relatedness (IR) and adjusted IR (IRVD) values demonstrated that a number of individuals were
+the offspring of parents that were either more inbred or ou tbred than the population as a whole. The diversity of
+DLA class I and II haplotypes was low, with only 11 identified DLA class I and nine class II haplotypes. Forty one
+percent of the breed shared a single DLA class I and 62 % a single class II haplotype. Nineteen percent of the dogs were
+homozygous for the dominant DLA class I haplotype and 42 % for the dominant DLA class II haplotype. The extensive
+loss of genetic diversity is most likely the result of a small founder population and artificial genetic bottlenecks occurring
+in the past. The prominent phenotypic changes characteristic of the breed have also resulted in numerous large runs of
+homozygosity (ROH) throughout the genome compared to Sta ndard Poodles, which were phenotypically more similar
+to indigenous-type dogs.
+Conclusions: English bulldogs have very low genetic diversity resulting from a small founder population and artificial
+genetic bottlenecks. Although some phenotypic and genotypic diversity still exists within the breed, whether it is
+sufficient to use reverse selection to improve health, sel ect against simple recessive deleterious traits, and/or to
+accommodate further genotypic/phenotypic manipulations without further decreasing existing genetic diversity
+is questionable.
+Keywords: English bulldog, Health, Genetic assessment, Short tandem repeats (STRs), Maternal haplotypes,
+Paternal haplotypes, Internal relatedness (IR), Dog leukocyte antigen (DLA), DLA class I and II, Runs of homozygosity (ROH)
+* Correspondence: ncpedersen@ucdavis.edu
+1Center for Companion Animal Health, School of Veterinary Medicine,
+University of California, One Shields Avenue, Davis, CA 95616, USA
+Full list of author information is available at the end of the article
+© 2016 The Author(s). Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 
+DOI 10.1186/s40575-016-0036-y
+Plain English Summary
+The English bulldog is one of the most popular breeds
+in the world because of its child-like appearance and de-
+meanor. The alterations in body type and behavior needed
+to create the breed have required physical changes well
+beyond its village dog ancestors. These changes have oc-
+curred over hundreds of years but have become particu-
+larly rapid over the last decades. Unfortunately, popularity
+does not equate to health and there have been increasing
+pressures on breeders to moderate the extreme physical
+changes that now affect the breed and its health. Im-
+proving health through genet ic manipulations presumes
+that enough diversity still exists to improve the breed
+from within, and if not, to add diversity by outcrossing
+to other breeds. The present study was an assessment
+of genetic diversity that stil l exists in a representative
+number of individual English bulldogs using DNA ra-
+ther than pedigrees. The results confirm that the breed
+has lost considerable genetic diversity through such
+things as small founder population and artificial genetic
+bottlenecks resulting from highly focused selection for
+specific desired physical traits. This is manifested by a
+narrowing of allele diversity in many parts of the genome,
+and the creation of numerous large regions of the genome
+that are essentially identical within the breed, which are
+significantly different from other dogs. Loss of genetic di-
+versity is also pronounced in the region of the genome
+that contains many of the genes that regulate normal im-
+mune responses. The loss of genetic diversity and extreme
+changes in various regions of the genome will make it very
+difficult to improve breed health from within the existing
+gene pool. Loss of present genetic diversity is further
+threatened by rapid integration of new coat color muta-
+tions, increased wrinkling of the coat, and attempts to
+create a more compact body type. Contrary to current be-
+liefs, brachycephaly and the resulting breathing problems
+in the breed are the result of complex changes in head
+structure, and cannot be corrected by merely lengthening
+the face. Furthermore, other issues in English bulldogs
+need to be addressed, including many serious health prob-
+lems that are not associated with brachycephaly, but are
+intrinsic to inbreeding.
+Background
+The first mention of what might be a contemporary type
+bulldog was reported in 1632 [1]. The “bull ”refers to the
+breed ’s use in the sport of bull baiting in England. Bull
+baiting, which had its beginning even centuries earlier
+with the Egyptians, Greeks and Romans, became a na-
+tional sport in England from the 13thto 18thcenturies
+[1]. The objective was for the dog to latch onto the bull ’s
+nose and force it to the ground, with the first dog to do
+so the victor. These original bulldogs had stockier bodies,
+larger heads and stronger jaws, and a more ferocious andaggressive temperament than the common indigenous
+dogs of the period. Therefore, their ancestors were pre-
+s u m a b l ym a s t i f f - t y p ed o g so r i g i n a l l yb r e di nA s i af o r
+their strength and aggressive ness. Controversy exists as
+to whether these Mastiffs were crossed with breeds
+such as the Pug to make them more effective at bull
+baiting [1]. The first description of a Bulldog as a dis-
+tinct entity from the Mastiff was in 1631 in a letter
+w r i t t e nf r o mM r .E a t o ni nS p a i nt oaf r i e n di nE n g l a n d
+[1]. The bulldog was further genetically altered over the
+500 year period of bull baiting by “selection of the fit-
+test, ”with emphasis on increasing agility and putting
+more power and weight into the head and front end to
+minimize spinal damage when they were shaken by the
+bulls [1].
+Attempts to legislate against bull baiting began in the
+UK in 1802 and the sport was finally abolished by an
+Act of Parliament in 1835, which led the breed to the
+brink of extinction [1]. The Bulldog endured by the efforts
+of a small group of aficionados and the breed underwent
+even more change in size and temperament after 1835 to
+ultimately make them into the shorter-faced, squatter and
+more affable companion dog that we know today.1The
+first Bulldogs appeared in show rings in the UK in 1860,
+and the Bulldog was first recognized by the American
+Kennel Club in 1886.2
+A number of modern breeds use “bull ”or“bulldog ”in
+their names and all have evolved from the original Bull-
+dogs and Mastiff-type dogs [1, 2]. Some of these breeds
+are of more ancient origin, while others are reconstruc-
+tions of breeds that no longer exist. The modern Olde
+English Bulldogge is a reconstruction of the original
+bulldog based on crosses between English bulldog,
+American bulldog, American Pit Bull Terrier and Mastiff.3
+The Miniature bulldogs, French bulldog and American
+bulldog are also constructed breeds that nonetheless trace
+some of their ancestry to the original English bulldog.
+Although there are several “bulldogs, ”the ideal English
+bulldog is easily differentiated by its huge head with
+wedge-shaped body, short and folded ears; stocky build
+with deep furrows of the skin, especially of the face;
+short or corkscrew tail; short thick legs with equally
+broad paws; and a gentle, child-like appearance and dis-
+position [2].
+The outward appearance of many dog breeds change
+with time, and this is also true of the English bulldog.4,5
+Photographs of English bulldogs from the nineteenth
+century depict dogs with less pronounced brachycephaly,
+less chondrodystrophic skeletal structure, a long tail, and
+without excessive skin folds on their face or body.6A
+picture of an English bulldog from 1935 can be found
+on an orange crate label advertising California oranges
+(Fig. 1) and this dog was already differing in appearance
+from its ancestors pictured a century earlier and fromPedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 2 of 16
+contemporary English bulldogs. However, photographs
+of modern English bulldogs still demonstrate a range of
+phenotypic diversity, with some dogs being smaller and
+squatter or larger and longer-legged, some with smooth
+rather than wrinkled coats, some with less brachyceph-
+alic and furrowed faces, some with longer and less chon-
+drodystrophic limbs, some more prognathous than
+others, some with intact tails, and others with different
+shaped remnants of tails.7,8
+Although much has been said about the ill-health of
+contemporary English Bulldogs, the English bulldog of
+the late 19thcentury also had its share of health prob-
+lems and critics.5Therefore, the English bulldog was not
+initially popular in the UK, although its popularity has
+greatly increased over the last decades in many affluent
+countries [3]. English bulldog owners love their baby-
+like appearance and demeanor and the breed has been
+cited as one of the prime examples of exuberant an-
+thropomorphism [4]. Health problems of the breed have
+not decreased its popularity and deviations from the ori-
+ginal standard based on changing perceptions of “cham-
+pion form ”have led to even more conformational
+changes that have further affected breed health.5
+The health problems of the English bulldog have been
+well documented and start with conception, fetal devel-
+opment and parturition. Severe conformational changes
+have necessitated a high rate of artificial insemination and
+Caesarean sections and litter sizes tend to be small.5,9The
+breed ranks second in congenital disease and associated
+puppy mortality [5], due mainly to birth defects such as
+flat chests with splayed legs; anasarca (water babies) and
+cleft palate [6].10,11Although some English bulldogs enjoyreasonable health, their longevity is definitely affected by
+the degree of conformational change and inbreeding,
+which is reflected by lifespan estimates ranging from 3.2
+to 11.3 years with a median of 8.4 years [7]. Individuals re-
+quiring extensive veterinary care at a young age rarely live
+beyond 5 –6 years of age, leading to a bimodal mortality
+curve for the breed.11
+The brachycephalic syndrome is a leading cause of ill-
+health and death in the breed. However, the syndrome is
+not caused by brachycephaly per se, as brachycephalic
+breeds such as the boxer do not suffer the syndrome to
+the same degree. The bulldog tongue is excessively large
+at the base, the palate is large and easily obstructed by
+the base of the tongue, the lower jaw is pushed forward
+(prognathous), and the nares are frequently stenotic and
+the trachea hypoplastic. This leads to loud panting during
+physical exercise, stridor during rest and slobbering; sleep
+apnea, hypercapnia and hypochloremia/hypomagnesemia;
+exercise intolerance, cyanosis and collapse; and choking
+fits manifested by gagging, retching, vomiting, aerophagia/
+flatulence and aspiration pneumonia [8 –12]. The breath-
+ing difficulties of English bulldogs also make them very
+sensitive to overheating and heat stroke.
+Chondrodysplasia, a heritable skeletal disorder that
+has been incorporated into the phenotype of many dog
+breeds [13], predisposes English bulldogs to skeletal dis-
+orders such as hip dysplasia, elbow dysplasia, luxating
+patella and shoulders, intervertebral disk disease, cruciate
+ligament rupture, hemivertebra , torsional pelvic deformity
+and problems with normal copulation and parturition [14,
+15]. Prognathism predisposes to dental disease, while exces-
+sive folding of the skin, especially on the face, is associated
+with skin fold dermatitis, muzzle acne, folliculitis, furuncu-
+losis, and eye conditions such as entropion, ectropion, and
+eversion of the third eyelid. The cork-screw tail can result
+in tail fold dermatitis. Other heritable conditions that are
+related to loss of genetic diversity and inbreeding include
+cataract, various heart valve defects including pulmonic
+stenosis, hydrocepha lus, cysteine urolithiasis, and hiatal
+hernias; immunologic disorders that include a propensity
+for severe demodectic mange indicative of immunodefi-
+ciency, allergies associated with atopic dermatitis and ear
+infections, and autoimmune diseases such as
+hypothyroidism; and cancers in cluding glioblastoma, mast
+cell sarcoma and lymphoma [15, 16]. Although the bond
+and affection between English b ulldogs and their owners is
+strong, the cost of treating heal th problems is often prohibi-
+tive and many of them end up in shelters or euthanized.
+Severe health problems in English bulldogs in the USA
+and the UK have prompted articles [16] such as “Can
+the Bulldog be saved? ”The article documented the short
+lives of University of Georgia mascots and re-kindled
+the humane issues of knowingly breeding dogs destined
+to lives of serious ill-health. An earlier broadcast on the
+Fig. 1 A drawing of an English bulldog from 1935 copied from a
+California Orange Crate Label of the Rudolph Marketing Company.Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 3 of 16
+BBC spawned three independent reports identifying the
+English bulldog as a breed in need of genetic interven-
+tion, presumably to breed away from the extremes of
+brachycephaly and chondrodysplasia and increase gen-
+etic diversity. The British Kennel Club responded to
+these criticisms by revising the English bulldog standard
+to select against obvious breathing difficulties and avoid
+extreme facial wrinkling.12However, bulldog breeders in
+the UK argue that “what you ’ll get is a completely different
+dog, not a British bulldog ”12, a strange argument given the
+continuous phenotypic ch anges that have occurred
+within the breed over many decades.6,7,8Groups in The
+Netherlands have called for a ban on English bulldogs
+based on a belief that the breed can no longer be
+returned to a health, while supporters believe that the
+breed can be returned to health from within and are peti-
+tioning the government against the ban.13American
+breeders of English bulldogs have avoided the issue and
+even deny that the breed is unhealthy, pointing to its
+popularity as proof [3]. However, the bulldog has been
+banned from plane travel in the cargo hold by many do-
+mestic and international airlines due to a high incidence
+of deaths.14
+English bulldogs have risen from 5thto 4thin popularity
+between 2013 and 2015 in AKC registrations [3], proving
+that the public is more enamored with the dog than con-
+cerned about its health. Assuming that this attitude will
+change and steps taken to improve the breed ’s health,
+how can this best be accomplished? Diehard breeders
+would argue that this should involve genetic change
+from within existing bloodlines. The question then be-
+comes whether there is enough residual phenotypic and
+genotypic diversity to significantly improve the health of
+the breed using the existing stock. Although there is still
+phenotypic variability in the breed based on photo-
+graphs6,7,8, bulldogs that reproduce without assistance,
+move freely, walk or run for long distances, and breathe
+normally even at rest are the exception.
+Efforts are underway in the UK to improve the health
+of bulldogs from within the breed by making modest
+changes on what is acceptable in a show dog. However,
+there is very little knowledge about the actual genetic
+status of the breed and whether enough genetic and
+phenotypic diversity still exists to significantly improve
+health without further reducing existing genetic diversity
+or relying on outcrossing. Breeders still rely heavily on
+pedigrees and coefficients of inbreeding (COI). The
+problem is that pedigrees emphasize ancestors and in-
+heritance by descent but not actual genetic makeup.
+They are also subject to parentage errors and COIs based
+on a few recent generations are of limited value in a breed
+that started with few founders subjected to numerous arti-
+ficial bottlenecks that occurred decades and even centur-
+ies earlier. Therefore, we endeavored to conduct a broad-based genetic assessment of the breed using DNA rather
+than pedigrees. The findings of this study indicate that
+English bulldogs may have insufficient genetic diversity to
+significantly improve gross physical abnormalities associ-
+ated with poor health, to eliminate simple recessive dele-
+terious traits, or to use inbreeding to rapidly integrate new
+coat colors and to breed for a smaller and more compact
+shape without further decreasing genetic diversity in indi-
+viduals and adding to their health problems.
+Methods
+Sample acquisition and DNA extraction
+The Veterinary Genetics Laboratory (VGL) (UC Davis
+School of Veterinary Medicine, Davis, CA, USA) provided
+DNA samples of 102 registered English Bulldogs; 87 of the
+dogs were from the USA, six from Finland, three each from
+Canada and Austria, and one each from Czechoslovakia,
+Hungary, and Argentina. DNA from these dogs was sub-
+mitted mainly for coat color or hyperuricosuria mutation
+testing and used in breeding programs. As such, they were
+presumed to be of adequate health and therefore listed as
+“controls ”. Thirty-seven DNA samples were collected from
+whole blood of English bulldogs submitted for various diag-
+nostic tests at the UC Davis Veterinary Medical Teaching
+Hospital (VMTH). These dogs were seen for a variety of
+health problems ranging from breathing problems, eye
+problems, skin disorders, orthopedic problems, or cancer
+and were therefore listed as “case ”. DNA was extracted
+using established procedures [17].
+Determination of maternal and paternal haplotypes
+Maternal haplotypes were determined by sequencing
+655 bp of the mitochondrial D-loop (nucleotide 15453 –
+16107) in 48 English Bulldogs as described [18]. Dogs
+were as unrelated as possible based on genomic STR
+markers. Sequences were analyzed using Geneious soft-
+ware [19]. Final sequences were compared to the National
+Center for Biotechnology Information (NCBI) database
+using nucleotide Basic Local Alignment Search Tool
+(BLAST) [20]. Paternal haplotypes were determined
+from the 44 male dogs in the group based upon a panel
+of six Y-STR markers, including 650.79.2 ,990.35.4 ,MS34A ,
+MS34B ,MS41A ,a n d MS41B [21, 22].
+Genomic STR markers and DLA class I and II STR markers
+Thirty-three STR loci across 25 chromosomes were used
+to assess genomic diversity, while four STR loci were
+used to determine DLA class I haplotypes and three
+STR loci were used for DLA class II haplotypes. The
+primer sequences, dye markers, conditions for amplifi-
+cation and analysis of these STR markers have been
+published [23].Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 4 of 16
+The use of allele frequencies for standard genetic
+assessments
+A genetic assessment using allele frequencies was con-
+ducted using GenAlEx 6.5 software [24]. The population
+statistics used in this study included Aa, Ae, Ho, He, and
+the inbreeding coefficient F. Aa represented the average
+number of alleles at each locus; Ae represented the aver-
+age effective number of alleles at each locus; Ho is ob-
+served heterozygosity, while He is the expected
+heterozygosity if the population was randomly breeding.
+The value F is an inbreeding coefficient derived by [1-
+(Ho/He)]. An F value of 0 indicates that the population
+as a whole is in Hardy-Weinberg equilibrium (HWE),
+i.e., randomly breeding. A negative F value of −1.0 indicates
+that that every member of the population is genetically
+distinct, while a F value of +1.0 indicates that all members
+were genetically identical. Pri ncipal coordinate analysis
+(PCoA) was performed in Excel using the XLSTAT
+software.
+Internal relatedness (IR) is a statistical estimate of how
+closely an individual dog ’s parents were related to each
+other [23]. It also uses allele frequency data, but unlike
+Ho and He, it gives more weight to uncommon alleles.
+An IR value of −1.0 means both parents were totally un-
+related, while a value of +1.0 means the parents were
+genetically identical. Internal relatedness values can also
+be used to plot the population as a whole and estimate
+the amount of genetic diversity lost as a result of breed
+creation [23]. The latter estimate is made by adjusting
+the frequencies of alleles found at each genomic STR
+locus to the frequency of the same allele in a large popu-
+lation of random breeding village dogs, thus yielding IR-
+village dog (IRVD). These village dogs breed randomly
+and have genetic links with most modern breeds, and
+they are one of the largest single reservoirs of ancestral
+diversity inherited by descent [22, 25, 26]. The IR and
+IRVD were graphed using the software R [27].
+Analysis of GWAS data for runs of homozygosity
+Illumina 170 K CanineHD datasets for English bulldog
+and Standard poodle were obtained from other GWAS
+studies [28, 29] and filtered for minor allele frequency
+(<0.05) and genotype (>90 %). Ten English bulldogs and
+10 Standard Poodles were randomly selected and their
+SNP arrays interrogated for runs of homozygosity (ROH)
+using PLINK [30]. Runs of homozygosity with allele shar-
+ing across all individuals were identified by applying the
+option –homozyg-group . The analysis yielded the number,
+size range of ROH, and the portion of ROH that was
+shared (consensus ROH) by all individuals interrogated.
+This information was extended by looking for the con-
+sensus ROH that were shared by 6 –9o ft h e1 0i n d i -
+viduals tested.Results
+Paternal haplotypes
+Paternal haplotypes were determined for 44 male English
+Bulldogs in the study population using six Y-specific
+STRS. Haplotype 1 was dominant in 93.1 % of the dogs,
+while haplotype 2 –4 were observed in 2.3 % of dogs each
+(Table 1). Paternal haplotypes three and four were closely
+related to the dominant haplotype 1 and appeared to arise
+from a single mutation in the MS41B STR locus, changing
+K to J or L, respectively. Test data from the UC Davis Vet-
+erinary Genetics Laboratory has also found the dominant
+haplotype 1 of the English bulldog in the French bulldog,
+Bull Terrier, Bull mastiff, Miniature bull terrier, Stafford-
+shire bull terrier, Wire-haired fox terrier, Beagle, and Coton
+de Tulear.
+Maternal haplotypes
+Five maternal haplotypes were identified in the con-
+trol population based on mitochondrial sequences.
+The sequences of the haplotypes observed in English
+bulldogs corresponded to GenBank Accession num-
+bers as follows: EBU-A (GenBank:KP665923), EBU-C
+(GenBank:KP665928), EBU-J (GenBank:KP665924), EBU-K
+(GenBank:KP665914), and EBU-7 (GenBank:KP665930).
+Maternal haplotype frequencies and variations of base pair
+positions are listed in Table 2. Three of the five haplotypes
+w e r ef o u n di n9 0 . 9%o ft h ed o g s .T h ef i v em a t e r n a lh a p l o -
+types identified in English bu lldogs have been found among
+a number of common dog breeds, with the three most
+common matrilines (EBU-C, −Ja n d –K) also found in
+mastiff- and brachycephalic-type breeds (Table 3).
+Genetic assessment of healthy and unhealthy English
+bulldogs using 33 genomic STR loci
+A genetic assessment of 102 control English bulldogs
+based on the alleles and their frequencies at each of the
+33 genomic STR loci was conducted and the population
+statistics were evaluated with GenAlex 6.51 software (Ta-
+bles 4 and 5). The highest number of individual alleles
+found for a single autosomal STR locus was eleven
+(VGL1165 ), and the lowest was three ( INRA21 ). Most of
+the loci had one or two alleles that dominated in fre-
+quency. Nineteen of 33 loci had single alleles with a fre-
+quency ≥50 %, which are highlighted in Table 4. Six of the
+STRs had one allele with a frequency of 70 % or greater,
+and allele 202 at locus REN162C04 was virtually fixed
+Table 1 Paternal haplotypes detected in 44 male English bulldogs
+Hap # Frequency 650.79.2 990.35.4 MS34A MS34B MS41A MS41B
+1 41 0.931 DK E J G C K
+2 1 0.023 DK E G J C I
+3 1 0.023 DK E J G C J
+4 1 0.023 DK E J G C LPedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 5 of 16
+with a frequency of 0.99 am ongst the 102 dogs studied
+(Table 4). The average number of alleles per locus was
+6.46, of which an average of 2.77 alleles per locus con-
+tributed disproportionately to overall diversity (Table 5).
+The observed and expected heterozygosity (Ho and He)
+were essentially the same, yielding an inbreeding coeffi-
+cient (F) close to zero. The Ho, He and F values indi-
+cated that this population of 102 dogs was in HWE.
+Results from a genetic assessment of 37 unhealthy case
+dogs were compared to that of the 102 presumably
+healthy controls (Table 5). The two populations were es-
+sentially identical by all of the genetic parameters, with
+the exception of the average alleles per locus for case
+dogs, which was a lower in case dogs (Table 5). However,
+this difference was due to variation in sample size, be-
+cause Aa was similar (5.182 vs 5.364) when the 37 case
+dogs were compared to 37 control dogs randomly se-
+lected from the larger population by Excel (data not
+shown). Observed and expected heterozygosity did not
+differ between case and control dogs and the values for
+F were near zero for both groups. No differences were
+detected between case and control populations by prin-
+cipal coordinate analysis (Fig. 2).
+Internal relatedness and adjusted internal relatedness
+The mean IR value for the 102 English Bulldogs was
+0.007, with individuals ranging from −0.234 (most outbred)
+to +0.304 (most inbred) (Fig. 3, Table 6). This suggestedthat there were highly inbred individuals in the popula-
+tion, which were balanced by an equal portion of outbred
+dogs, giving the impression that the population as a whole
+was a product of random breeding.
+The adjusted IR value (IR-village dog or IRVD) for the
+population gave a more accurate measure of just how in-
+bred the parents of modern English bulldogs were com-
+pared to village- or landrace- type dogs from which the
+breed evolved. IRVD values ranged from 0.043 to 0.64
+with a mean of 0.335 (Fig. 3, Table 6]. Therefore, 78/102
+bulldogs (77 %) had IRVD values >0.25 and were more
+closely related to each other than offspring of full sibling
+parents from a random breeding village dog population.
+Values >0.25 would occur only if full sibling parents
+were offspring of inbred parents; the more inbred the
+parents the higher the IRVD score.
+The IR and IRVD values for English bulldogs were fur-
+ther compared with the Standard Poodle (Fig. 4, Table 6).
+Standard Poodles like the English bulldog, are very
+popular and a sub-population has been extensively inbred
+for a uniform and desirable appearance [23]. A compari-
+son of minimum and maximum IR values for the two
+breeds show parents of individual Standard Poodles to be
+both more unrelated ( −0.306 vs −0.234) and related (0.304
+vs 0.528) than parents of individual English bulldogs
+(Table 6). The differences are even more apparent when
+comparing IRVD values (Table 6). This comparison
+demonstrated that many Standard Poodles were offspringTable 2 Frequencies and base pair position variations of maternal haplotypes found in English bulldogs
+Base pair position
+Hap Frequency 124 125 133 140 145 152 156 163 165 166 223 313 328 425 468 516 538
+EBU-A 0.045 T C T A T G G T A A C C C T T /aT
+EBU-C 0.295 T T T A C A A T G A C T T C C A C
+EBU-J 0.364 T T C G C A A T G A C T T C T A T
+EBU-K 0.25 C T T A C G A C G A T C T T T G T
+EBU-7 0.045 T T T A C T A T G G C T T C C A T
+aThe “/”indicates a base pair deletion mutation
+Table 3 Breeds identified by the UC Davis Veterinary Genetics Laboratory that share maternal haplotypes with English bulldogs
+Haplotype Breeds exhibiting haplotype
+EBU-A Airedale Terrier, Australian Terrier, Basset Hound, Beagle, Bloodhound, Bolognese, Brittany Spaniel, Cardigan Welsh Corgi, Chihuahua,
+Coton de Tulear, English Bulldog, Golden Retriever, Great Pyrenees, Jack Russell Terrier, Labradoodle, Maltese, Poodle, Portuguese Water
+Dog, Shetland Sheepdog, Tibetan Spaniel, Yorkshire Terrier
+EBU-C Airedale Terrier, American Staffordshire Bull Terrier, Australian Shepherd, Brittany Spaniel, Bucovina Shepherd Dog, Chihuahua, Cocker
+Spaniel, Dachshund, Dwarf, Schnauzer, English Bulldog, English Springer Spaniel, Fox Terrier, Greyhound, Irish Setter, Labrador Retriever,
+Miniature Dachshund, Rottweiler, Saint Bernard, Shiba Inu, Siberian Husky
+EBU-J Airedale Terrier, American Pit Bull Terrier, Bichon Frise, Boxer, Brittany Spaniel, Bull Mastiff, Cavalier King Charles Spaniel, Dalmatian,
+English Bulldog, English Bull Terrier, German Shepherd, Greyhound, Jack Russell Terrier, Miniature Pinscher, Miniature Schnauzer, Pug
+EBU-K American Pit Bull Terrier, Australian Shepherd, Beagle, Black Russian Terrier, Blue Heeler, Border Collie, Boston Terrier, Brittany Spaniel ,
+Cocker Spaniel, Collie, English bulldog, Havanese, Pomeranian, Shiba Inu, Shikoku, Swedish Elkhound, West Highland White Terrier
+EBU-7 American Cocker Spaniel, Beagle, Bearded Collie, Briard, Cockapoo, Cocker Spaniel (unspecified), Dachshund, English Bulldog, Galgo,
+Jack Russell Terrier, Miniature Schnauzer, Shetland Sheepdog, Shiba Inu, Toy Poodle, Viszla, Welsh Springer SpanielPedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 6 of 16
+of parents that were even more inbred than parents of the
+most inbred English bulldogs. Although both breeds ap-
+pear to be highly inbred, Standard Poodles have retained
+much more genetic diversity across the breed [23].
+Frequency of STR-associated DLA Class I and II haplotypes
+Eleven DLA class I and nine class II haplotypes were iden-
+tified among the 102 English bulldogs tested (Table 7).
+The dominant class I haplotype was observed in 40.7 % of
+the dogs, while the three most common haplotypes to-
+gether accounted for nearly 80 % of all class I haplotypes.
+The dominant class II haplotype was found in 62.3 % ofEnglish bulldogs, while the two most common were present
+in 86 % of individuals. The three most common DLA class
+I and two most common class II haplotypes were homozy-
+gous in 24.5 and 50 % of dogs, respectively (Table 7).
+Individual alleles within the 7 STR loci that defined the
+DLA class I and II regions were assessed for heterozygosity.
+Each of seven loci was defined by one dominant and one
+semi-dominant allele and several minor alleles (Table 8).
+The most common alleles were usually found in the most
+prevalent DLA class I and II haplotypes.
+Although the DLA is in strong linkage disequilibrium
+compared to other regions of the genome, there areTable 4 Allele frequencies at 33 genomic STR loci for 102 control English bulldogs
+VGL1165 AHT137 VGL1063 VGL0760 VGL0910 AHTh260 AHT121 VGL2409 VGL2918
+17 (0.005) 133 (0.005) 12 (0.015) 14 (0.015) 13 (0.01) 242 (0.005) 94 (0.039) 14 (0.203) 13 (0.333)
+19 (0.005) 135 (0.23) 13 (0.015) 15 (0.005) 17 (0.142) 244 (0.098) 96 (0.069) 15 (0.01) 14 (0.132)
+21 (0.127) 137 (0.044) 14 (0.172) 20 (0.005) 18 (0.039) 246 (0.304) 98 (0.039) 16 (0.104) 15 (0.02)
+22 (0.196) 139 (0.005) 15 (0.044) 21 (0.034) 19 (0.333) 248 (0.029) 100 (0.103) 17 (0.228) 17 (0.147)
+23 (0.005) 141 (0.005) 16 (0.039) 22 (0.093) 20 (0.172) 250 (0.005) 102 (0.676) 18 (0.05) 18 (0.044)
+25 (0.054) 143 (0.01) 17 (0.044) 23 (0.338) 21 (0.27) 252 (0.02) 104 (0.054) 19 (0.02) 19 (0.27)
+26 (0.167) 147 (0.569) 18 (0.397) 24 (0.196) 22 (0.025) 254 (0.005) 106 (0.015) 20 (0.104) 20 (0.029)
+27 (0.206) 149 (0.01) 19 (0.235) 25 (0.02) 23 (0.005)
+28 (0.206) 151 (0.078) 20 (0.034) 26 (0.005)
+29 (0.005) 153 (0.005)
+30 (0.005)
+REN105L03 AHTH130 FH2001 FH2054 REN169O18 VGL3008 INU055 AHTh171-A
+229 (0.01) 119 (0.515) 128 (0.005) 148 (0.01) 156 (0.127) 13 (0.49) 208 (0.005) 219 (0.441)
+231 (0.338) 121 (0.162) 132 (0.147) 152 (0.103) 160 (0.005) 14 (0.039) 210 (0.343) 223 (0.054)
+233 (0.083) 123 (0.005) 136 (0.005) 156 (0.113) 162 (0.078) 15 (0.103) 212 (0.025) 225 (0.431)
+235 (0.422) 125 (0.098) 140 (0.034) 160 (0.127) 164 (0.01) 18 (0.029) 214 (0.069) 227 (0.005)
+239 (0.044) 127 (0.088) 144 (0.627) 168 (0.279) 168 (0.005) 19 (0.279) 216 (0.147) 229 (0.025)
+241 (0.098) 129 (0.034) 148 (0.167) 172 (0.343) 170 (0.77) 20 (0.049) 218 (0.412) 237 (0.044)
+245 (0.005) 133 (0.098) 152 (0.015) 176 (0.025) 172 (0.005) 21 (0.01)
+VGL1828 VGL2009 VGL3235 AHTk253 C22.279 FH2848 INU005 REN54P11
+14 (0.152) 9 (0.005) 13 (0.877) 284 (0.005) 116 (0.098) 230 (0.162) 110 (0.025) 222 (0.025)
+15 (0.235) 10 (0.015) 14 (0.025) 286 (0.299) 118 (0.564) 238 (0.539) 122 (0.005) 226 (0.377)
+16 (0.539) 13 (0.049) 15 (0.01) 288 (0.441) 120 (0.108) 240 (0.098) 124 (0.211) 228 (0.01)
+17 (0.015) 14 (0.809) 16 (0.039) 290 (0.216) 124 (0.034) 242 (0.015) 126 (0.578) 232 (0.039)
+19 (0.049) 15 (0.113) 17 (0.025) 292 (0.039) 126 (0.196) 244 (0.186) 132 (0.181) 236 (0.549)
+20 (0.01) 16 (0.01) 18 (0.025)
+REN64E19 REN247M23 REN169D01 REN162C04 LEI004 INU030 AHTk211 INRA21
+143 (0.005) 266 (0.083) 202 (0.186) 200 (0.005) 83 (0.01) 144 (0.127) 87 (0.76) 95 (0.279)
+145 (0.392) 268 (0.24) 212 (0.225) 202 (0.985) 85 (0.064) 146 (0.005) 89 (0.015) 97 (0.706)
+147 (0.235) 270 (0.029) 216 (0.564) 206 (0.005) 95 (0.757) 148 (0.005) 91 (0.01) 101 (0.015)
+149 (0.005) 272 (0.647) 218 (0.025) 208 (0.005) 107 (0.168) 150 (0.863) 95 (0.216)
+153 (0.363)
+Bold data indicates allele frequencies over 50 %Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 7 of 16
+recombination hotspots within the DLA and fixation indi-
+ces using allele frequencies at the seven class I and II STR
+loci is of some value (Table 9). The average DLA class
+I/II associated alleles per STR loci was 5.43, but only
+2.16 (40 %) were contributing to most of the genetic di-
+v e r s i t y( T a b l e9 ) .T h i sw a sar e f l e c t i o no ft h ei m b a l a n c e
+in the frequency and homozygosity of certain founding
+DLA class I and II haplotypes, although the observed
+and expected heterozygosity were similar and F was
+near zero. The neutral F valu e indicated that the imbal-
+ance in DLA classes I/II haplotypes was not a recent
+occurrence but resulted from small number of ancestral
+founders or artificial genetic bottlenecks much earlier
+in breed evolution. Periods of inbreeding associated with
+genetic bottlenecks such as popular sire effects are often
+followed by a return to random breeding, although the out-
+come may be a permanent reduction in founder size [23].
+Runs of homozygosity (ROH) in genomes of English
+bulldogs and Standard Poodles
+The English bulldog is very different in outward appear-
+ance to breeds such as the Standard Poodle, which still
+resembles its Middle Eastern/SE Asian village dog and
+their European Landrace relatives in most aspects.Therefore, variations within genomes of the English bull-
+dogs were compared with those of the Standard Poodle.
+The implication was that variations within the genome
+would be much greater in the English bulldog because the
+extreme conformational changes would require much
+more intense positive selection within specific parts of the
+genome. GWAS data from 10 randomly selected English
+bulldogs and Standard Poodles was obtained from previous
+studies [23, 29]. The level of inbreeding based on the pro-
+portion of SNPs that were homozygous in canine 170 K ar-
+rays was virtually identical in the two breeds; 0.65 ± 0.03 in
+English bulldogs and 0.63 ± 0.03 in Standard Poodles. The
+results of IR and IRVD comparisons also showed that
+highly inbred individuals exi sted in both breeds. Therefore,
+it can be assumed that variations in the genomes of English
+bulldogs and Standard Poodles were not associated with in-
+breeding per se, but to strong positive selection pressures
+in various regions of the genome related to comparative
+breed specific traits and to an associated loss of genetic
+diversity. The GWAS data was then used to estimate the
+n u m b e ra n ds i z eo fR O Hi nt h et w ob r e e d s .
+The largest consensus ROH was determined for all 10
+dogs of each breed (Table 10). As expected, the number
+of large consensus ROH shared by 100 % of the popula-
+tion is low because different proportions of individuals
+will possess one or more heterozygous SNP that create
+variable sized runs of overlapping homozygosity within
+these larger ROH. The effect of this small amount of
+heterozygosity can be offset by identifying the largest
+consensus ROH shared by at least 9, 8, 7 or 6 out of 10
+individuals in the population (Table 10).
+Two consensus ROH 4.71 Mb and 2.65 Mb in size
+were identified on different chromosomes in 100 % of
+English bulldogs tested. The largest autosomal ROH in a
+single English bulldog was 58.24 Mb on CFA20. The lar-
+gest consensus ROH on the X-chromosome (CFA39)Table 5 Average (Aa) and effective (Ae) alleles per locus of 33
+autosomal STRs for case ( n= 37) and control ( n= 102) English
+bulldogs
+Population Aa Ae Ho He F
+Case Mean 5.182 2.770 0.575 0.570 −0.001
+(n= 37) SE 0.324 0.190 0.038 0.035 0.020
+Control Mean 6.455 2.772 0.572 0.574 0.006
+(n= 102) SE 0.385 0.198 0.033 0.032 0.012
+Total Mean 6.788 2.791 0.573 0.575 0.007
+(n= 139) SE 0.379 0.199 0.034 0.033 0.011
+Coord. 2 (17.45%)
+Coord. 1 (21.84%)Case
+Control
+Fig. 2 PCoA plot of 102 healthy English bulldogs (control) and 37 English bulldogs admitted to the VMTH for a variety of health problems (case)Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 8 of 16
+was 51.35 Mb on five of the six male dogs in the group.
+The number of consensus ROH that were detected on
+autosomes increased as the number of dogs that shared
+larger consensus ROH decreased. Nine of ten of the
+dogs shared eight additional ROH compared to 10/10
+dogs; 8/10 dogs an additional 16 ROH compared to 10/
+10 and 9/10 dogs; 7/10 dogs had 39 more ROH com-
+pared to 8/10, 9/10 and 10/10 dogs; and 6/10 dogs had
+53 more ROH than 7/10, 8/10, 9/10 and 10/10 dogs
+(Table 10). In total, 118 consensus ROH ranging from
+1.31 to 3.68 Mb on 31 different autosomes were shared
+by at least 6 of the 10 dogs studied (Table 10).
+The number and size of ROH were much lower in
+Standard Poodles than English bulldogs (Table 10). No
+consensus ROH was shared among all 10 of the Standard
+Poodles and only one ROH of 0.11 Mb was shared by 9/10
+of individuals. Twenty-one ROH on 16 chromosomes with
+consensus sizes of 1.33 ± 0.83 M were shared by at least 6/
+10 of the dogs. The largest ROH of a single Standard
+Poodle was 59.16 Mb on CFA11. The largest consensus
+ROH was 3.66 Mb on CFA30 shared by 8/10 Standard
+Poodles. A total of 30 consensus ROH on 19 chromo-
+somes and 0.11 –1.96 MB in size were shared by at least
+6/10 Standard Poodles in the population tested. Therefore,
+ROH of English bulldogs were larger, more variable in sizebetween individuals, more numerous, and involved many
+more chromosomes than those of Standard Poodles.
+Discussion
+This study examined genetic diversity among contem-
+porary English bulldogs used for breeding purposes from
+the USA ( n= 87) and several other countries ( n= 15).
+Thirty-seven pet English bulldogs seen for health prob-
+lems at UC Davis Veterinary Clinical Services were also
+included in the study. The populations that were tested
+evolved from one major and three minor paternal haplo-
+types and three major and two minor maternal haplo-
+types. One paternal haplotype, which was found only in
+a one dog, appeared to be distinct. The two remaining
+minor paternal haplotypes, also in single dogs, differed
+from the dominant paternal haplotype by a simple muta-
+tion. This pattern of a single dominant paternal haplo-
+type and a small number of maternal haplotypes has
+been observed in most pure breeds and is therefore not
+unique to English bulldogs [21, 25].
+The paternal and maternal haplotypes identified in
+these English bulldogs provides a window into the
+breed ’s ancestry. The dominant paternal haplotype oc-
+curs as expected in several bracycephalic breeds that in-
+clude “bull ”in their breed names, as well as breeds such
+as the Beagle, Coton de Tulear, and Wire-haired fox ter-
+rier. The minor unrelated haplotype has been found in a
+related genetic form in Akita and Beagles. The two
+minor mutant haplotypes have not been seen in any
+other breed suggesting that these have arisen by muta-
+tions within the breed. The major maternal haplotype
+EBU-J occurs in several of the brachycephalic breeds
+(Boxer, Pug, Boston Terrier) as well as small Mastiff-
+type dogs (Bull Mastiff, English Bull Terrier, American
+Pit Bull Terrier), while EBU-K has been found in Asian
+Mastiffs such as the Shiba Inu and Shikoku. Therefore,
+Fig. 3 Internal relatedness (IR, solid line ) and internal relatedness
+relative to village dogs (IRVD, dash line ) of 102 English Bulldogs
+Table 6 Summary of IR and IRVD values from English bulldogs
+(n= 102) and Standard Poodles ( n= 664)
+IR IRVD
+EBU ST EBU ST
+Min. −0.234 −0.306 0.043 −0.119
+1st Qu −0.063 −0.025 0.26 0.163
+Median −0.009 0.046 0.319 0.250
+Mean 0.007 0.056 0.335 0.254
+3rd Qu 0.085 0.126 0.41 0.328
+Max. 0.304 0.528 0.64 0.732
+Fig. 4 Internal relatedness (IR, solid line ) and internal relatedness
+relative to village dogs (IRVD, dash line ) of 664 American Standard PoodlePedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 9 of 16
+the maternal haplotypes seen in English bulldogs sup-
+port the general belief that English bulldogs evolved
+from Mastiff-type dogs crossed with brachycephalic
+breeds such as the Pug [1]. It is tempting to associate
+paternal rather than maternal introgressions from
+smaller and much less aggressive non-brachycephalic
+breeds were used to make English bulldogs more accept-
+able as household pets.
+Evidence obtained from the 33 genomic STR loci pro-
+vides additional evidence for the small founder populationand artificial genetic bottlenecks that led to the modern
+English bulldog. The average number of alleles per locus
+was similar to other pure breeds that have been diversity
+tested.15However, an examination of the average effective
+alleles per locus indicates that only one or two alleles are
+actually contributing to the overall genotype and pheno-
+type diversity of the breed. Six of 33 loci had an allele with
+frequency >70 %, and allele 202 at locus REN162C04 was
+homozygous in 101/102 dogs studied. Loss of genetic di-
+versity as a result of pure-breeding, especially when those
+breeds undergo selection for conformation, is well docu-
+mented [25]. The various conformational changes used in
+creating breed-specific phenotypes often results in large
+regions of extended homozygosity across the genome
+[31 –35]. The larger and more numerous these regions,
+the more often they will be associated with an STR and
+the more likely that certain STR alleles will be at higher
+frequency and also exist in a homozygous state.
+Measurements of observed and expected heterozygosity
+(Ho and He) and the inbreeding coefficient F are also use-
+ful in looking at the genetic makeup of a population. Ob-
+served and expected heterozygosity were similar for the
+English bulldogs tested, yi elding an inbreeding coeffi-
+cient F that was close to zero (0.001). This indicated
+that the population as a whole was in HWE despite a
+limited gene pool and that English bulldog breeders
+were doing a reasonable job of identifying moreTable 7 DLA class I and II haplotypes of 102 English bulldogs and their frequencies. The percentage homozygosity for each
+haplotype is also given
+Class I Class II
+Haplotype Frequency Homozygous Haplotype Frequency Homozygous
+388/369/289/188 0.407 18.63 % 343/324/282 0.623 42.16 %
+382/371/277/183 0.216 3.92 % 343/322/280 0.235 7.84 %
+388/369/289/186 0.172 1.96 % 339/322/284 0.088 0 %
+382/371/277/178 0.108 0 % 345/327/288 0.025 0 %
+386/383/289/186 0.044 0 % 339/327/282 0.01 0 %
+380/371/277/186 0.025 0 % 339/322/280 0.005 0 %
+375/373/287/180 0.01 0 % 343/324/268 0.005 0 %
+376/369/291/178 0.005 0 % 343/325/286 0.005 0 %
+376/379/277/181 0.005 0 % 351/327/280 0.005 0 %
+386/369/277/186 0.005 0 %
+387/375/293/180 0.005 0 %
+Total homozygous 24.5 % 50 %
+Table 8 Allele frequencies for STR loci associated with DLA
+Class I and II regions in 102 English bulldogs
+DLA Class I
+DLA I-3CCA DLA I-4ACA DLA I-4BCT DLA1131
+375 (0.01) 369 (0.608) 277 (0.338) 178 (0.093)
+376 (0.01) 371 (0.328) 287 (0.01) 180 (0.015)
+380 (0.025) 373 (0.01) 289 (0.642) 181 (0.005)
+382 (0.304) 375 (0.005) 291 (0.005) 183 (0.216)
+386 (0.049) 379 (0.005) 293 (0.005) 186 (0.265)
+387 (0.005) 383 (0.044) 188 (0.407)
+388 (0.598)
+DLA Class II
+5ACA 5ACT 5BCA
+339 (0.104) 322 (0.332) 268 (0.005)
+343 (0.866) 324 (0.624) 280 (0.255)
+345 (0.025) 325 (0.005) 282 (0.623)
+351 (0.005) 327 (0.04) 284 (0.088)
+286 (0.005)
+288 (0.025)
+Alleles occurring at the highest frequency at each locus were in boldTable 9 Average (Aa) and effective (Ae) alleles per locus for 7
+DLA class I and II STRs for 102 English bulldogs
+Aa Ae Ho He F
+Mean 5.43 2.16 0.51 0.50 −0.02
+SE 0.43 0.24 0.05 0.05 0.03Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 10 of 16
+distantly related dogs for mating. However, IR values
+indicated that He, Ho and F values were misleading, as
+many individual dogs in the study were actually prod-
+ucts of parents that were much more related to each
+other than assumed from the population-wide fixation
+indices.
+Internal relatedness has been widely used as an indica-
+tor of population fitness [36 –42], implying that closely
+related parents reflect a loss of genetic diversity in the
+total population under study. The average IR value is
+0.25 for a litter of puppies born to full sibling parents
+from a genetically diverse and randomly bred popula-
+tion. The average IR value for English bulldogs was
+around 0.007, however there were a number of individ-
+uals with IR values around 0.20. However, IR does not
+take into account the degree of genetic diversity that has
+been lost as a result of breed development. Virtually all
+of modern pure-breeds can trace their origins to village-
+type dogs that proliferated during the Neolithic era in
+the Middle East and SE Asia and populated other re-
+gions of the world [22, 26]. Allele and allele frequencies
+found in pure breeds can be adjusted to the frequencies
+of those same alleles found in village dog populations
+and used to re-calculate or adjust IR values to approxi-
+mate the expected diversity if no founder effects or arti-
+ficial bottlenecks occurred during a breed ’s evolution.
+When IR values were adjusted using allele frequencies in
+village dogs, the mean IRVD value for English bulldogs
+rose to 0.34, with 50 % of dogs having even greater
+values. A mean value of 0.34 indicates that the average
+English bulldog is genetically equivalent to offspring of
+full sibling parents that came from a highly inbred sub-
+population of village-type progenitors. This shift to the
+right of the IRVD compared to IR curve was also seen in
+Standard Poodles, but to a much less degree, reflecting
+the greater amount of initial or retained genetic diversity
+in Standard Poodles.
+The low number of different DLA class I and II haplo-
+types in English bulldogs was associated with an imbal-
+ance in the relative frequency of each haplotype. Four of
+11 class I and 3/9 class II haplotypes were found in over90 % of the individual English bulldogs tested. Moreover,
+there was a high level of homozygosity among the dom-
+inant DLA class I (19 %) and II (42 %) haplotypes. Al-
+though not balanced in frequency, genetic assessment of
+the seven STR alleles associated with the DLA class I
+and II regions showed them to be randomly segregating
+at this time. This indicated that the over-representation
+of certain haplotypes occurred at the onset of breed cre-
+ation as a result of small founder numbers, and/or that
+it was associated with artificial genetic bottlenecks that
+were subsequently masked by a return to random selec-
+tion. Although the DLA region is only a small part of
+the genome, the importance of these haplotype imbal-
+ances, small haplotype numbers, and increased homozy-
+gosity should not be underestimated [23, 42]. The breed
+suffers greatly from allergies, immunodeficiency, and a
+number of autoimmune disorders, which may be a re-
+flection of loss of balanced selection and heterozygote
+advantage in the DLA region.
+In order to gauge the extent to which humans shaped
+the phenotype of English bulldogs from typical dogs, we
+decided to compare the English bulldog with a breed
+that was similarly inbred based on the number of homo-
+zygous SNPs identified by Illumina 170 K canine SNP
+arrays and IR scores, but outwardly similar in appear-
+ance to the ancestral dog. The Standard Poodle, which
+has been similarly studied [23], met the desired criteria.
+One hundred nineteen ROH with consensus sizes ran-
+ging from 1.31 to 3.68 Mb and shared by at least 6/10
+dogs tested were identified on 30 of the 38 autosomes.
+This was compared to 31 ROH with consensus sizes
+ranging from 0.11 to 1.96 MB on 19 chromosomes for
+the Standard Poodle. Although a proportion of the ROH
+observed in both English bulldog and Standard Poodle
+can be attributed to natural selection pressures occur-
+ring over thousands of years [33, 34], the differences in
+ROH size and number are better explained by the com-
+parative changes in outward appearance. The physical
+traits of English bulldogs, such as extreme
+brachycephaly, chondrodysplasia, skin furrowing, differ-
+ences in tail structure, size and behavior, are extremeTable 10 The total number of consensus runs of homozygosity (ROH) depending on proportion of dogs in the population among
+which they were shared, number of Canis familiaris autosomes (#CFA) on which ROH were identified and mean size and standard
+deviation in Mb of consensus ROH
+English bulldog Standard poodle
+#dogs #ROH #Chr Mean (Mb) SD (Mb) #ROH #Chr Mean (Mb) SD (Mb)
+10 2 2 3.68 1.46 0 0 0 0
+9 8 7 1.79 1.36 1 1 0.11 0
+8 16 12 2.02 1.97 3 3 1.96 1.83
+7 39 20 2.08 2.32 5 2 0.93 1.41
+6 53 28 1.31 1.18 21 16 1.33 0.83
+Total 118 31 1.31 –3.68 30 19 0.11 –1.96Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 11 of 16
+compared to the physical changes seen in Standard
+P o o d l e s .T h e s es p e c i f i ca n de x t r e m ep h e n o t y p i ct r a i t s
+required strong positive selection (strong sweeps) in
+specific regions of the genome [43], while ROH re-
+quired for the Standard Poodle phenotype were not
+nearly as strong or widespread. The variation in ROH
+observed in the genome of English bulldogs and Stand-
+ard Poodles were in line with the findings of others.
+Vaysse and colleagues [32] identified 44 genomic re-
+gions among 49 pure breeds that had undergone in-
+tense selection and 22 blocks of SNPs in certain breeds
+that extended over one million bases. Lindblad-Toh
+and a large group of investigators [31] compared the
+haplotype structure of the genome of the Boxer and 10
+other breeds and found regions of linkage disequilib-
+rium extending over several megabases within a breed
+and tens of kilobases between breeds.
+We did not associate runs of homozygosity in English
+bulldogs with characteristic phenotypic traits but are
+confident based on previous studies that the greater gen-
+omic variation in English bulldogs compared to Standard
+Poodles reflected stronger human-directed selection in
+the former breed than in the latter. Pollinger and col-
+leagues [44] also concluded that strong artificial selection
+for breed-defining traits have reduced variation within
+many regions of the genome. Associations between ROH
+and species/breed traits such as those found in English
+bulldogs have been demonstrated for human-directed se-
+lection in many pure breeds [29, 32, 33, 45, 46]. Brachy-
+cephaly is a prominent phenotypic trait in the English
+bulldog and not a naturally selected phenotype of ances-
+tral village- or landrace-type dogs. A ROH around 500 kb
+on CFA1 was associated with brachycephaly in a study
+that compared a number of brachycephalic breeds [29].
+A more recent study confirmed the existence of the
+brachycephaly-associated region on CFA1 in boxers,
+but also identified a >8 Mb ROH on CFA26 [44]. Vari-
+ation in CFA10 has been linked to ear morphology and
+body mass in a number of breeds [45]. Genomic re-
+gions of positive selection in dog breeds have also been
+associated with adaption to a diet richer in starch [35].
+Vaysse and colleagues [32] also identified runs of
+homozygosity associated with breed-defining character-
+istics such as chondrodyspl asia in Dachshund [590 Kb]
+and wrinkled skin in Sharpei [1.4 Mb], characteristics
+of English bulldogs but not Standard Poodles. They also
+concluded that artificial selection in domestic animals
+targeted different functional categories than natural se-
+lection. Pollinger et al., [44] identified a 40 Mb selective
+sweep on CFA11 associated with black coat color in
+Large Munsterlander and a 10 MB region on CFA3 in
+Dachshund containing FGFR3 , which is responsible for
+achondroplasia in humans and presumably linked with
+related genes responsible for canine chondrodysplasia.It can be assumed from this and other studies that the
+small founder population of the English bulldog, estimated
+at 68 individuals,16coupled with human created artificial
+genetic bottlenecks have greatly diminished genetic diver-
+sity and fostered a wide range of health problems. Small
+founder numbers and artificial bottlenecks are a much
+more powerful cause of lost genetic diversity than in-
+breeding [33]. Some bulldog breeders from the UK have
+already realized that the artificial selection process had
+gone too far, either on their own or bowed by public pres-
+sure, and have revised breed standards that discourage
+physical features “that might prevent a dog breathing,
+walking and seeing freely ”[46]. However, the brachyceph-
+alic syndrome in English bulldogs is much more complex
+than a “shortened head. ”Breeds such as the Boxer are
+similarly brachycephalic but do not suffer to the same de-
+gree. In the case of the English bulldog, the nostrils are
+narrow, the base of the tongue is large and broad, the pal-
+ate elongated and thickened, thus allowing for blockage of
+the pharynx especially during sleep [8 –11]. The tracheas
+are usually hypoplastic (narrow), further compromising
+normal ventilation [47]. The constant pressures on the
+upper airways created by these obstructions may also
+damage and weaken the laryngeal muscles, cause eversion
+of the lateral ventricles, and further decrease pharyngeal
+patency [48]. The laryngeal collapse is in turn associated
+with bronchial collapse [49]. Therefore, the breathing
+problems in the English bulldogs go beyond mere shorten-
+ing of the face and require specific changes in the nares,
+rostral skull, tongue, oropharynx and trachea. Concentrat-
+ing on the brachycephalic syndrome also ignores other
+serious problems in the breed, such as inability to breed
+and deliver normally, poor mothering, high puppy mortal-
+ity, the accumulation of simple recessive deleterious
+traits, a number of orthopedic problems, certain cancers,
+allergies, immunodeficiency, and autoimmune disorders.
+The authors would agree with O ’Neill and colleagues
+[50] that breeding reforms should target commonly-
+diagnosed complex disorders that are amenable to gen-
+etic improvement and should place special focus on at-
+risk breeds. Unfortunately, in the case of English bull-
+dogs, this list is very long, but it may still be possible to
+target the most serious of these disorders for genetic
+correction.
+Assuming that there is a will to improve the overall
+health of English bulldogs, the question raised by this
+study is whether or not there is sufficient genotypic di-
+versity remaining in the breed to allow “reverse genetics ”
+to correct phenotypic abnormalities that have major im-
+pacts on health. There are certainly phenotypic differ-
+ences that still exist between various lines of English
+bulldogs and among individuals, and many English bull-
+dogs enjoy much better health than others. The regions
+flanking consensus ROH vary greatly in size in individualPedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 12 of 16
+English bulldogs, suggesting that some of these regions
+may contain “hidden ”genetic diversity that may prove
+critical for reversing the degree of brachycephaly or
+chondrodysplasia. The existence of phenotypic variation
+within the breed is evident from photographs of modern
+English bulldogs.7,8The one region of the genome of
+English bulldogs that is least amenable to reverse genet-
+ics may be the DLA, which has very low diversity based
+on DLA class I and II haplotypes and a high level of
+homozygosity. The nine DLA class II haplotypes recog-
+nized in this group of English bull dogs were only a frac-
+tion of the 88 haplotypes that were reported for dogs in
+2007 [51]. Genes within the DLA are important in regu-
+lating self/non-self recognition and immune responses
+and play a role in autoimmune disorders, allergies, and
+immun.
+Populations that have lost genetic diversity through
+small founder numbers and artificial genetic bottlenecks
+are more likely to accumulate deleterious traits [33, 52].
+A lack of genetic diversity also makes it harder to elim-
+inate deleterious traits from a population once they are
+recognized. The mutation responsible for hyperuricos-
+uria is carried by 25.5 % of English bulldogs and 3.1 % of
+the breed are homozygous and excrete uric acid [53].
+Elimination of this recessive mutation from the breed
+could lead to a significant loss of breed-wide genetic
+diversity.
+A low level of breed-wide genetic diversity also limits
+the ability to rapidly introduce desired traits, usually in
+the form of simple recessive mutations. There is in-
+creased demand for smaller and more compact English
+bulldogs, dogs with wrinkled coats and rare coat colors.
+Such refinements in the breed create popular sire effects
+and yet more artificial genetic bottlenecks that will cause
+the loss of more genetic diversity if not properly man-
+aged. The negative effects of the rapid introduction of
+new genetic traits on the health have been best docu-
+mented in the “The Rare Color Bulldog Craze ”.17Indeed,
+English bulldog breeders appear to be more interested in
+adding recessive coat color mutations to increase puppy
+value than eliminating known deleterious mutations.
+English bulldog breeders around the world ordered 2482
+tests from VGL UC Davis involving coat color between
+2012 and 2016 compared to 62 tests for the hyperuricos-
+uria mutation.18
+In conclusion, English bulldog breeders differ widely
+on their perception of health problems in their breed
+and what do about them. Some breeders blame disreput-
+able or backyard “commercial ”breeders for the un-
+healthy dogs that are being sold.19,20However, genetic
+differences were not observed between pet English bull-
+dogs seen at the UC Davis Veterinary Clinical Services
+and presumably healthy breeding dogs being genetically
+tested for certain traits. Healthy and unhealthy bulldogsshared the same alleles at genomic STR loci and the al-
+lele frequencies are virtually identical. The same was
+true for DLA class I and II haplotypes. Other English
+bulldog breeders believe that the health of the breed can
+be improved by breeding from within existing blood-
+lines, although there has been little movement by
+breeders to embrace this concept. This is fueled by pur-
+ists that vigorously argue that any deviation from the
+original standards is no longer a British (English) bulldog
+[47], even though the breed has continued to evolve in
+appearance over centuries and even the last few decades.
+Still others believe that health cannot be restored from
+within the breed without resorting to outcrossing.12,13
+The feelings of individual English bulldog breeders
+about the health of their breed and what if anything
+should be done about it may ultimately be taken out of
+their hands. English bulldog breeders across the world
+must take seriously constitutional amendments on the
+rights of animals. The European Union has recently up-
+dated their rules on animal welfare in 2015.21Although
+it was written specifically for farm animals; it holds that
+“animals ”have rights of ‘freedom from discomfort ”and
+‘freedom from pain, injury and disease. ”The EU rules
+on animal welfare have been restated in much greater de-
+tail by a 2013 constitutional amendment in Switzerland,
+which extended such rights to all animals [54]. Although
+it has not been uniformly enforced, many Swiss breeders
+have proactively begun outcrossing English bulldogs with
+the Olde English Bulldogge to create what is known as the
+“Continental Bulldog ”,22which will help bring the breed
+into compliance.
+Conclusions
+Breeding of the English bulldog for extremes of brachy-
+cephaly, chondrodysplasia, skin folding and child-like
+appearance and personality has required a level of human-
+directed positive selection that has made the English bull-
+dog both one of the most popular and unhealthiest of dog
+breeds. A DNA-based assessment of the breed along a
+number of parameters has confirmed that the breed is
+greatly lacking in genetic diversity, which may preclude or
+minimize the ability of breeders to recreate healthier phe-
+notypes from existing genetic stock, to eliminate dele-
+terious mutations, and to add in new phenotypic traits.
+Endnotes
+1Breed Information Centre. Bulldog. http://www.the-
+kennelclub.org.uk/services/public/breed/display.asp-
+x?id=4084, accessed 08/02/2016.
+2The American Kennel Club: Get To Know The Bull-
+dog. http://www.akc.org/dog-breeds/bulldog/, accessed
+on 26/06/2016.
+3Olde English Bulldogge, https://en.wikipedia.org/wiki/
+Olde_English_Bulldogge, accessed 26/06/2016.Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 13 of 16
+4Images of English Bulldogs through history, https://
+www.google.com/search?q=images+of+english+bulldogs
++through+history&biw=1539&bih=703&tbm=isch&tbo=
+u&source=univ&sa=X&ved=0ahUKEwiX28n6-YTNAhV
+GLmMKHfGSAuQQsAQIGw, accessed 26/06/2016.
+5English bulldogs have been screwed for a long time.
+http://retrieverman.net/2012/04/26/english-bulldogs-have-
+been-screwed-for-a-long-time/, accessed 26/06/2016.
+6Images for English bulldogs from 19th century.
+https://www.google.com/#q=pi ctures+of+English+bulldogs
++from+19th+century , accessed 26/06/2016.
+7Images of English bulldogs. https://www.google.com/
+search?q=images+of+english+bulldogs&biw=1559&bih=
+744&tbm=isch&tbo=u&source=univ&sa=X&sqi=2&ved=
+0ahUKEwiMz_KorunKAhVM6GMKHVdOD9IQsAQIG
+w&dpr=1, accessed 26/06/2016.
+8https://www.google.com/search?q=english+bulldogs+in+
+switzerland&biw=1920&bih=940&site=webhp&tbm=isch&
+tbo=u&source=univ&sa=X&ved=0ahUKEwjEkf6PzcjMAh
+UP42MKHR2QAYgQsAQINw, accessed 26/06/2016.
+9Why are bulldog puppies so expensive? braselsbull
+dogs.tripod.com/id38.htm, accessed 08/02/2016.
+10Dog Breed Info Center. Water (Walrus) Puppies
+(Anasarca puppies). www.dogbreedinfo.com/whelping
+waterpuppies.htm, accessed 26/06/2016.
+11Report from the Kennel Club/British Small Animal
+Veterinary Association Scientific Committee. Summary
+results of the purebred dog health survey for British
+bulldogs. http://www.thekennelclub.org.uk/media/16342/
+british%20bulldog.pdf, accessed 26/06/2016.
+12Britain ’s Kennel Club announces sweeping reforms.
+http://latimesblogs.latimes.co m/unleashed/2009/01/britains-
+kennel.html, accessed 27/06/2016.
+13A petition from the campaign to Save the English
+Bulldog Breed. Sign the Petition to: Department of Agri-
+culture The Netherlands, Secretary of State: Dijksma.
+https://www.causes.com/actio ns/1742598-save-the-english-
+bulldog-breed, accessed 27/06/2016.
+14Airlines Ban Bulldogs, Snub-Nosed Breeds From Flying
+Because Of Health Risks To Dogs. http://www.huffington
+post.com/2011/10/10/bulldogs- banned-airlines-health-risks
+_n_1003495.html, accessed 27/06/2016.
+15Canine genetic diversity. https://www.vgl.ucdavis.edu/
+services/dog.php, accessed 27/06/2016.
+16Bulldog (English bulldog). http://www.dogbreed
+health.com/bulldog/, accessed 27/06/2016.
+17The Rare Color BullDog Craze.https://www.muscle
+bully.com/general/the-rare-color-bulldog-craze/, accessed
+27/06/2016.
+18Veterinary Genetics Laboratory, UC Davis. The
+records of this laboratory show that English bulldog
+owners ordered 2482 tests involving coat color between
+2012 and 2016 compared to 62 tests involving the hyper-
+uricosuria mutation.19Why purchase a bulldog puppy from a reputable
+breeder? http://www.bulldo gsworld.com/ puppy/why-
+purchase-bulldog-puppy-reputable-breeder, accessed 27/
+06/2016.
+20How to breed English bulldogs. http://www.wiki
+how.com/Breed-English-Bulldogs, accessed 27/06/2016.
+21Animal welfare. http://ec.europa.eu/food/animals/
+welfare/index_en.htm, accessed 27/06/2016.
+22Continental bulldog. https://en.wikipedia.org/wiki/
+Continental_bulldog, accessed 27/06/2016.
+Abbreviations
+AKC, American Kennel Club; DLA, dog Leukocyte antigen; IR, internal relatedness;
+STR, short tandem repeat; VGL, veterinary genetics laboratory, UC Davis
+Acknowledgements
+Funding to support this study was obtained from the Center for Companion
+Animal Health, UC Davis. We would also like to thank the Veterinary Genetics
+Laboratory at the UC Davis School of Veterinary Medicine for providing DNA
+samples, advice on sample testing, providing tests at no cost, and assisting
+with data collection. We are grateful for Merial for encouraging veterinary
+students to obtain research experience through the STAR program. We
+thank Dr. Danika Bannasch, UC Davis, for contributing GWAS data from
+English bulldogs.
+Funding
+ASP received a Student Training Advanced Research (STAR) summer award
+from the Merial Veterinary Scholars Program. The authors would like to
+acknowledge and thank the Center for Companion Animal Health and the
+Veterinary Genetics Laboratory at UC Davis School for providing the necessary
+funds and no-cost testing for this project.
+Availability of data and materials
+The authors will make freely available upon request reproducible datasets
+and details on software applications, reagents and test procedures used in
+this study. Confidential information will be excluded.
+Authors ’contributions
+NCP: project conception, project design, analysis, and manuscript preparation.
+ASP: data collection, data extraction, analysis, preparation of initial draft and
+poster for scientific presentation. HL: data collection, data extraction, analysis.
+DLB: provided GWAS data on English bulldogs. All authors read and approved
+the final manuscript.
+Authors ’information
+NCP, D.V.M., Ph.D., is an emeritus distinguished Professor and former director
+of the Center for Companion Animal Health and the Veterinary Genetics
+laboratory, UC Davis. ASP, B.S., is a third year student pursuing a D.V.M. at UC
+Davis. HL, M.S., is a staff research associate IV and laboratory manager for NCP.
+Competing interests
+The authors declare that they have no competing interests.
+Ethics approval and consent to participate
+Experiments were done with DNA samples that were on file and no live
+animals were directly involved. Therefore, no institutional animal use and
+care committee approval was required.
+Author details
+1Center for Companion Animal Health, School of Veterinary Medicine,
+University of California, One Shields Avenue, Davis, CA 95616, USA.2School
+of Veterinary Medicine, University of California, One Shields Avenue, Davis,
+CA 95616, USA.
+Received: 23 March 2016 Accepted: 10 June 2016
+Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 14 of 16
+References
+1. Marien-de Luca C. History of the English Bulldog. http://www.
+bulldoginformation.com/english-bulldog-history.html. Accessed 26 June 2016.
+2. Fogle B, Morgan T. The new encyclopedia of the dog. New York: Dorling
+Kindersley; 2000. p. 381. ISBN 0-7894-6130-7.
+3. Smith, S. AKC News. 2015. Most popular breeds in America. www.akc.org/
+news/the-most-popular-dog-breeds-in-america/. Accessed 26 June 2016.
+4. Serpell J. People in disguise. Anthropomorphism and the human-pet
+relationship. In: Daston L, Mitman G, editors. Thinking with animals: new
+perspectives on anthropomorphism. New York: Columbia University Press;
+2005. p. 129.
+5. Fleming JM, Creevy KE, Promislow DE. Mortality in North American dogs
+from 1984 to 2004: an investigation into age-, size-, and breed-related
+causes of death. J Vet Intern Med. 2011;25(2):187 –8.
+6. Nganvongpanit K, Yano T. Prevalence of Swimming Puppy Syndrome in
+2,443 Puppies during the Years 2006 –2012 in Thailand. Vet. Med. Intnl. 2013.
+doi: 10.1155/2013/617803
+7. O ’Neill DG, Church DB, McGreevy PD, Thomson PC, Brodbelt DC. Longevity
+and mortality of owned dogs in England. Vet J. 2013;198(3):638 –43.
+8. Roedler FS, Pohl S, Oechtering GU. How does severe brachycephaly affect
+dog ’s lives? Results of a structured preoperative owner questionnaire. Vet J.
+2013;198(3):606 –10.
+9. Hoareau GL, Mellema MS, Silverstein DC. Indication, management, and
+outcome of brachycephalic dogs requiring mechanical ventilation. J Vet
+Emerg Crit Care. 2011;21(3):226 –35.
+10. Hoareau GL, Jourdan G, Mellema M, Verwaerde P. Evaluation of arterial
+blood gases and arterial blood pressures in brachycephalic dogs. J Vet
+Intern Med. 2012;26(4):897 –904.
+11. O ’Neill DG, Jackson C, Guy JH, Church DB, McGreevy PD, Thomson PC,
+Brodbelt DC. Epidemiological associations between brachycephaly and
+upper respiratory tract disorders in dogs attending veterinary practices in
+England. Canine Genet Epidem. 2015;2:10. doi:10.1186/s40575-015-0023-8.
+12. Mellema MS, Hoareau GL. Hypomagnesemia in brachycephalic dogs. J Vet
+Intern Med. 2014;28(5):1418 –23.
+13. Linden E, Craig K, Dittmer KE, Thompson KG. Bones and Joints. In: Maxie G
+(Ed.) Jubb, Kennedy & Palmer ’s Pathology of Domestic Animals: Volume 1,
+6th Edition, Philadelphia, PA, USA: Saunders Ltd. Philadelphia; 2015. p.37.
+14. Volta A, Gnudi G, Morgan JP, Bonazzi M, Manfredi S, Bottarelli E, et al.
+Radiographic features of pelvis and hip joint development of English
+Bulldogs. Vet Comp Orthop Traumatol. 2010;23(1):19 –27.
+15. Marien, C. The Bulldog Information Library: A Guide to inherited and
+congenital diseases In Bulldogs, including genetic predisposition to
+Diseases. http://www.bulldoginformation.com/bulldogs-hereditary-defects.
+html. Accessed 26 June 2016.
+16. Densiet-Lewis B. 2011. Can the bulldog be saved? www.nytimes.com/
+2011/11/27/magazine/can-the-bulldog-be-saved.html?_r=0. Accessed 26
+June 2016.
+17. Irion DN, Schaffer AL, Famula TR, Eggleston ML, Hughes SS, Pedersen NC.
+Analysis of genetic variation in 28 dog breed populations with 100
+microsatellite markers. J Hered. 2003;94(1):81 –7.
+18. Vilá C, Maldonado J, Wayne RK. Phylogenetic relationships, evolution, and
+genetic diversity of the domestic dog. J Hered. 1999;90(1):71 –7.
+19. Kearse M, Roir R, Wilson A, Stones-Havas S, Cheung M, Sturrock S, et al. Geneious
+basic: an integrated and extendable desktop software platform for the
+organization and analysis of sequence data. Bioinformatics. 2012;28(12):1647 –9.
+20. Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment
+search tool. J Mol Biol. 1990;215(3):403 –10.
+21. Bannasch DL, Bannasch MJ, Ryun JR, Famula TR, Pedersen NC. Y chromosome
+haplotype analysis in purebred dogs. Mamm Genome. 2005;16(4):273 –80.
+22. Brown SK, Pedersen NC, Jafarishorijeh S, Bannasch DL, Ahrens KD, Wu JT,
+Okon M, Sacks BN. Phylogenetic distinctiveness of middle eastern and
+Southeast Asian village dog Y chromosomes illuminates dog origins. PLoS
+ONE 2011;6(12): doi: 10.1371/journal.pone.0028496
+23. Pedersen NC, Brucker L, Tessier NG, Liu H, Penedo MC, Hughes S, Oberbauer A.
+The effect of genetic bottlenecks and inbreeding on the incidence of two
+major autoimmune diseases in standard poodles, sebaceous adenitis and
+Addison ’s disease. Canine Genet Epidemiol. 2015;27(2):14. doi:10.1186/s40575-
+015-0026-5.
+24. Peakall R, Smouse PE. GenAlEx 6.5: genetic analysis in Excel. Population
+genetic software for teaching and research –an update. Bioinformatics.
+2012;28(19):2537 –39.25. Pedersen NC, Liu H, Theilen G, Sacks BN. The effects of dog breed
+development on genetic diversity and the relative influences of
+performance and conformation breeding. J Anim Breed Genet. 2013;130:
+236 –48.
+26. Pilot M, Malewski T, Moura AE, Grzybowski T, Ole ński K, Ru śćA, Kami ński S,
+Ruiz Fadel F, Mills DS, Alagaili AN, Mohammed OB, K łys G, Okhlopkov IM,
+Suchecka E, Bogdanowicz W. On the origin of mongrels: evolutionary
+history of free-breeding dogs in Eurasia. Proc Biol Sci. 2015; 282(1820):
+doi: 10.1098/rspb.2015.2189
+27. R Development Core Team. R: A language and environment for statistical
+computing. Vienna, Austria: R Foundation for Statistical Computing; 2008.
+http://www.R-project.org. Accessed 26 June 2016. ISBN 3-900051-07-0.
+28. Pedersen NC, Liu H, McLaughlin B, Sacks BN. Genetic characterization of
+healthy and sebaceous adenitis affected standard poodles from the United
+States and the United Kingdom. Tissue Antigens. 2012;80(1):46 –57.
+29. Bannasch D, Young A, Myers J, Dickinson P, Gregg J, Davis R, Bongcam-
+Rudloff E, Webster MT, Lindblad-Toh K, Pedersen N. Localization of Canine
+Brachycephaly Using an Across Breed Mapping Approach. PLoS ONE, 2010.
+doi: 10.1371/journal.pone.0009632
+30. Purcell S, Neale B, Todd-Brown K, Thomas L, Ferreira MAR, Bender D, Maller J,
+Sklar P, de Bakker PIW, Daly MJ, Sham PC. PLINK: a toolset for whole-genome
+association and population-based linkage analysis. Am J Hum Genet. 2007;
+81(3):559 –75.
+31. Lindblad-Toh K, Wade CM, Mikkelsen TS, Karlsson EK, Jaffe DB, Kamal M, et
+al. Genome sequence, comparative analysis and haplotype structure of the
+domestic dog. Nature. 2005;438(7069):803 –1.
+32. Vaysse A, Ratnakumar A, Derrien T, Axelsson E, Rosengren Pielberg G,
+Sigurdsson S, et al. Identification of genomic regions associated with
+phenotypic variation between dog breeds using selection mapping. PLoS
+Genet 2011;7: doi: 10.1371/journal.pgen.1002316
+33. Marsden CD, Ortega-Del Vecchyo D, O ’Brien DP, Taylor JF, Ramirez O, Vilà C,
+Marques-Bonet T, Schnabel RD, Wayne RK, Lohmueller KE. Bottlenecks and
+selective sweeps during domestication have increased deleterious genetic
+variation in dogs. Proc Natl Acad Sci U S A. 2016;113(1):152 –7.
+34. Cagan A, Blass T. Identification of genomic variants putatively targeted by
+selection during dog domestication. BMC Evol Biol. 2016;16:10. doi:10.1186/
+s12862-015-0579-7.
+35. Axelsson E, Ratnakumar A, Arendt ML, Maqbool K, Webster MT, Perloski M,
+Liberg O, Arnemo JM, Hedhammar A, Lindblad-Toh K. The genomic
+signature of dog domestication reveals adaptation to a starch-rich diet.
+Nature. 2013;495(7441):360 –4.
+36. Amos W, Wilmer JW, Fullard K, Burg TM, Croxall JP, Bloch D, et al. The influence
+of parental relatedness on reproductive success. Proc R Soc Lond B. 2001;
+268(1480):2021 –7.
+37. California sea lions. Inbreeding influences the response of these animals to
+different pathogens in the wild. Nature. 2003;422(6927):35.
+38. Hoffman JI, Boyd IL, Amos W. Exploring the relationship between parental
+relatedness and male reproductive success in the antarctic fur seal arctocephalus
+gazella. Evolution. 2004;58(9):2087 –99.
+39. Bean K, Amos W, Pomeroy PP, Twiss SD, Coulson TN, Boyd IL. Patterns of
+parental relatedness and pup survival in the grey seal ( Halichoerus grypus ).
+Mol Ecol. 2004;13(8):2365 –70.
+40. Banks SC, Dubach J, Viggers KL, Lindenmayer DB. Adult survival and
+microsatellite diversity in possums: effects of major histocompatibility
+complex-linked microsatellite diversity but not multilocus inbreeding
+estimators. Oecologia. 2009;162(2):359 –70.
+41. Forstmeier W, Schielzeth H, Mueller JC, Ellegren H, Kempenaers B.
+Heterozygosity –fitness correlations in zebra finches: microsatellite markers
+can be better than their reputation. Mol Ecol. 2012;21(13):3237 –49.
+42. Pedersen NC, Liu H, Leonard A, Griffioen L. A search for genetic diversity
+among Italian Greyhounds from Continental Europe and the USA and the
+effect of inbreeding on susceptibility to autoimmune disease. Canine Genet
+Epidemiol. 2015;2:17. doi:10.1186/s40575-015-0030-9.
+43. Quilez J, Short AD, Martínez V, Kennedy LJ, Ollier W, Sanchez A, Altet L,
+Francino O. A selective sweep of >8 Mb on chromosome 26 in the Boxer
+genome. BMC Genomics. 2011. doi: 10.1186/1471-2164-12-339
+44. Pollinger JP, Bustamante CD, Fledel-Alon A, Schmutz S, Gray MM, Wayne RK.
+Selective sweep mapping of genes with large phenotypic effects. Genome
+Res. 2005;15(12):1809 –19.
+45. Webster MT, Kamgari N, Perloski M, Hoeppner MP, Axelsson E, Hedhammar Å,
+Pielberg G, Lindblad-Toh K. Linked genetic variants on chromosome 10 controlPedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 15 of 16
+ear morphology and body mass among dog breeds. BMC Genomics. 2015;16:
+474. doi:10.1186/s12864-015-1702-2.
+46. Bates, D. Iconic British bulldog to be scrapped as kennel club overhauls
+breeding rules. http://www.dailymail.co.uk/news/article-1114766/Iconic-
+British-bulldog-scrapped-Kennel-Club-overhauls-breeding-rules.html.
+Accessed 26 June 2016.
+47. Harvey CE, Fink EA. Tracheal diameter: analysis of radiographic
+measurements in brachycephalic and nonbrachycephalic dogs. J Am Anim
+Hosp Assoc. 1982;18:570 –6.
+48. Petrof BJ, Pack AI, Kelly AM, Eby J, Hendricks JC. Pharyngeal myopathy of
+loaded upper airway in dogs with sleep apnea. J Appl Physiol. 1994;76(4):
+1746 –52.
+49. De Lorenzi D, Bertoncello D, Drigo M. Bronchial abnormalities found in a
+consecutive series of 40 brachycephalic dogs. J Am Vet Med Assoc. 2009;
+235(7):835 –40.
+50. O Neill DG, Church DB, McGreevy PD, Thomson PC, Brodbelt DC. Prevalence
+of disorders recorded in dogs attending primary-care veterinary practices in
+England. PLoS One. 2014;9(3): doi: 10.1371/journal.pone.0090501.
+51. Kennedy LJ, Barnes A, Short A, Brown JJ, Lester S, Seddon J, Fleeman L,
+Francino O, Brkljacic M, Knyazev S, Happ GM, Ollier WE. Canine DLA diversity: 1.
+New alleles and haplotypes. Tissue Antigens. 2007;69 Suppl 1:272 –88.
+52. Farrell LL, Schoenebeck JJ, Wiener P, Clements DN, Summers KM. The
+challenges of pedigree dog health: approaches to combating inherited
+disease, Canine Genet Epidemiol. 2015; 2: (3): doi: 10.1186/s40575-015-0014-9
+53. Karmi N, Safra N, Young A, Bannasch DL. Validation of a urine test and
+characterization of the putative genetic mutation for hyperuricosuria in
+Bulldogs and Black Russian Terriers. Am J Vet Res. 2010;71(8):909 –14.
+54. Gerritsen V. Animal welfare in Switzerland- constitutional aim, social
+commitment, and a major challenge. Global Journal Animal Law, 2013, 1:
+http://www.tierimrecht.org/de/PDF_Files_gesammelt/GJAL_Gerritsen2013.pdf.
+Accessed 26 June 2016.
+•  We accept pre-submission inquiries  
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submitSubmit your next manuscript to BioMed Central 
+and we will help you at every step:Pedersen et al. Canine Genetics and Epidemiology  (2016) 3:6 Page 16 of 16
